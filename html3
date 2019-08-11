@@ -1,6 +1,9 @@
 1. 사진 첨부하기 - <img src = " url 아무거나(ex) a.jpg )" width = "100%"> 태그
-                  +) src = "a.jpg" 랑  width = "100%" 를 attribute 속성이라고 한다.
+                  +) src = "a.jpg" 랑  width = "100%" 를 attribute 속성이라고 한다. 두개 위치 바꿔도 된다.
 
 -> 내려받은 사진 이미지를 web폴더에 넣으면 된다 (이름 rename하면 )
 
 +) unsplash.com 무료 이미지 다운 사이트
+
+2. 목차 만들기
+맨 위에 
