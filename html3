@@ -11,3 +11,22 @@
 <li> 1. JavaScript</li>
 
 +) 세 줄의 <li> 한 번에 쓰는 방법 : ctrl누르고 커서 3개 찍고 입력하기
+
+
+3. <li> 태그의 부모 태그는 <ul>태그 (수업 과목명이랑 아이디 구분 <br>말고 쓰는 방법)
+<ul>
+  <li>1.HTML</li>
+  <li>2.CSS</li>
+  <li>3.JavaScript</li>
+</ul>
+<ul>
+  <li>k8880</li>
+  <li>youbin</li>
+</ul>
+
+
+
+
+
+
+
