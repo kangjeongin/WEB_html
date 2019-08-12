@@ -34,4 +34,25 @@
 
 6. <meta charset="utf-8"> 해야 한글 안깨진다 : utf-8로 문서를 열어라는 뜻
 
-7. 본문은 <body>로 묶는다
+7. <head> + <body> (tab키 사용하고)
+<head>
+  <title> web 코딩하기 </title>
+  <meta charset="utf-8">
+</head>
+
+<body>    //본문은 <body>로 묶는다
+  <li>1. HTML</li>
+  <li>2. CSS</li>
+  <li>3. JavaScript</li>
+
+  <h1>HTML</h1>
+  Hypertext Markup Language(HTML)is the standard markup
+  language for
+  <strong>creating <u>web</u>
+  pages</strong> and web applications.
+
+  <img src = "a.jpg" width = "100%">
+</body>
+
+
+
